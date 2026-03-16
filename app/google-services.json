@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383228944861",
+    "project_id": "swipeify-1a562",
+    "storage_bucket": "swipeify-1a562.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383228944861:android:7a0357aaaf5cbe04ba9634",
+        "android_client_info": {
+          "package_name": "com.swipeify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383228944861-1osn1nrne88cf0uhraah3f1gsus0n4g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swipeify",
+            "certificate_hash": "90f168077d2b28191a1d9f04686026f039d51f9e"
+          }
+        },
+        {
+          "client_id": "383228944861-nmhec2j4hnrto07ng70afpfu6nu9enbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhrU_oQ3g1qKSvwQ2l9iyXZeJsBPr7DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383228944861-nmhec2j4hnrto07ng70afpfu6nu9enbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
